@@ -96,7 +96,7 @@ a:hover {
 h2 {
   font-size: 4rem;
   font-weight: bold;
-  color: #000;
+  color: #463A25;;
   font-family: Pacifico, sans-serif;
   margin: 0;
   padding-bottom: .2em;
@@ -167,7 +167,7 @@ img {
   margin-bottom: 0;
   margin-right: 0;
   font-weight: bold;
-  color: #000;
+  color: #C3A681;
   font-family: Pacifico, sans-serif;
   padding-bottom: .2em;
 }
@@ -176,6 +176,7 @@ img {
   text-align: center;
   margin-top: 0;
   margin-bottom: 1.3rem;
+  color: #66CDAA;
 }
 
 .card {
@@ -188,6 +189,7 @@ img {
   padding-top: 2rem;
   padding-bottom: 2rem;
   border-style: dotted solid;
+  border-color: #C3A681;
 }
 
 .video h4 {
@@ -197,7 +199,7 @@ img {
   margin-bottom: 0;
   margin-right: 0;
   font-weight: bold;
-  color: #000;
+  color: #C3A681;
   font-family: Pacifico, sans-serif;
   padding-bottom: .2em;
 }
@@ -206,12 +208,12 @@ img {
   font-size: 1.125rem;
   padding: .4em .75em .5em;
   font-family: Rosario, sans-serif;
-  background-color: #4f4e4e;
+  background-color: #97CBBC;
   text-decoration: none;
   border-radius: 8px;
   border-width: 3px;
-  border-color: #4f4e4e;
-  color: #fff;
+  border-color: #C3A681;
+  color: #614A30;
   display: inline-block;
   margin: auto;
   border-style: dotted;
@@ -222,6 +224,7 @@ img {
   text-align: center;
   padding-bottom: 3rem;
   font-family: Rosario, sans-serif;
+  color: #66CDAA;
 }
 
 .nav .current {
