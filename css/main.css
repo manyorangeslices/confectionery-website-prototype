@@ -252,6 +252,11 @@ img {
   font-family: 'Rosario', sans-serif;
 }
 
+.nav .current {
+  color: #000;
+  background-color: #8080ff;
+}
+
 @media only screen and (min-width: 25em) {
 
   html {
